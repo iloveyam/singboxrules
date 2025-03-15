@@ -5,8 +5,8 @@
                 "domain_keyword": [
                     "openai",
                     "anthropic",
-                    "claude"，
-                    "gemini"，
+                    "claude",
+                    "gemini",
                 ],
                 "domain_suffix": [
                     "perplexity.ai",
