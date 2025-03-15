@@ -1,9 +1,8 @@
- {
 {
                 "version": 1,
   "rules": [
     {
-                     "domain_suffix": [
+                    "domain_suffix": [
                     "cdn-telegram.org",
                     "comments.app",
                     "contest.com",
