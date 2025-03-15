@@ -1,4 +1,8 @@
+ {
 {
+                "version": 1,
+  "rules": [
+    { 
                 "domain": [
                     "voice.telephony.goog"
                 ],
