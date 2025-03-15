@@ -2,11 +2,11 @@
                 "version": 1,
   "rules": [
     {
- "domain_keyword": [
+                "domain_keyword": [
                     "openai",
                     "anthropic",
-                    "claude"
-                    "gemini"
+                    "claude"，
+                    "gemini"，
                 ],
                 "domain_suffix": [
                     "perplexity.ai",
